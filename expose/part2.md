@@ -31,3 +31,10 @@ question10:
 question11:
   The function returns [50, 100, 150]. Variable "discounted" is initialized within the same scope as the return statement, so it can be accessed. Although it's a const, as a const array, its elements can be updated. Variable "discounted" is updated inside the for loop.
 
+Data Types
+question12:
+console.log(student.name);
+console.log(student["Grad Year"]);
+console.log(student.greeting);
+console.log(student["Favorite Teacher"].name);
+console.log(student.courseLoad[0]);

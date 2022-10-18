@@ -38,3 +38,26 @@ console.log(student["Grad Year"]);
 console.log(student.greeting);
 console.log(student["Favorite Teacher"].name);
 console.log(student.courseLoad[0]);
+
+Basic Operators and Type Conversion
+question13:
+A. '32'
+B. 1
+C. 3
+D. '3null'
+E. 4
+F. 0
+G. '3undefined'
+H. NaN
+
+Comparison
+question14:
+A. true
+B. false
+C. true
+D. false
+E. false
+F. true
+
+question15:
+"==" is a regular equality operator. "===" is a strict equality operator which checks equality without type conversion.

@@ -61,3 +61,6 @@ F. true
 
 question15:
 "==" is a regular equality operator. "===" is a strict equality operator which checks equality without type conversion.
+
+question17:
+The result is [2, 4, 6]. Line 13 calls function modifyArray. The parameter array is [1, 2, 3] and callback is function doSomething. A new array is created. Inside the for loop, at line 4, the callback function is called, which is doSomething function. The function multiplies the parameter by 2. Then back at line 4, it pushes the new element into the new array. At last, return the new array.

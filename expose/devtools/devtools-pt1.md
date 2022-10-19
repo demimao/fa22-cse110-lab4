@@ -1,4 +1,4 @@
 citylots.json
 expose.js
-779 kB
-487.86ms
+11.7MB
+108ms
